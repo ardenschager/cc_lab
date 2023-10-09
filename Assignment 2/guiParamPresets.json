@@ -1,0 +1,278 @@
+{
+    "Default": {
+        "chainString": "~ Language is malleable. & Text is clay. *",
+        "numChains": 24,
+        "randomStringStart": false,
+        "backgroundRedrawAlpha": 100,
+        "fontSizeChainStart": 66,
+        "fontSizeChainEnd": 94,
+        "fontSpacingStart": -51.900000000000006,
+        "fontSpacingEnd": 2,
+        "fontSizeLinkJitter": 0,
+        "fontSizeChainJitter": 0,
+        "xRotationSpeed": 6,
+        "yRotationSpeed": 7,
+        "zRotationSpeed": 8,
+        "chainOffsetBase": 50,
+        "chainOffsetOscMag": 50,
+        "chainOffsetOscFreq": 3,
+        "xRotationMouseXInf": 1,
+        "xRotationMouseYInf": 0,
+        "yRotationMouseXInf": 0,
+        "yRotationMouseYInf": 1,
+        "zRotationMouseXInf": 0,
+        "zRotationMouseYInf": 0,
+        "color0": {
+            "r": 255,
+            "g": 0,
+            "b": 119.00000000000003
+        },
+        "color1": {
+            "r": 0,
+            "g": 209.99999999999994,
+            "b": 255
+        },
+        "color2": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "colorBg": {
+            "r": 7.500000000000002,
+            "g": 3.3088235294117654,
+            "b": 3.3088235294117654
+        },
+        "animateColorSpeed": -5,
+        "rainbowMode": false
+    },
+    "Classic": {
+        "chainString": "https://www.nan.ooo/",
+        "numChains": 16,
+        "randomStringStart": false,
+        "backgroundRedrawAlpha": 255,
+        "fontSizeChainStart": 62,
+        "fontSizeChainEnd": 100,
+        "fontSpacingStart": 2,
+        "fontSpacingEnd": 2,
+        "fontSizeLinkJitter": 0,
+        "fontSizeChainJitter": 0,
+        "xRotationSpeed": 4.62,
+        "yRotationSpeed": 7.0200000000000005,
+        "zRotationSpeed": 7.0200000000000005,
+        "chainOffsetBase": -30.3,
+        "chainOffsetOscMag": 10.600000000000001,
+        "chainOffsetOscFreq": 4.2,
+        "xRotationMouseXInf": 1,
+        "xRotationMouseYInf": 0.22,
+        "yRotationMouseXInf": 0.1,
+        "yRotationMouseYInf": 1,
+        "zRotationMouseXInf": 0.34,
+        "zRotationMouseYInf": 0.34,
+        "color0": {
+            "r": 34.999999999999986,
+            "g": 34.999999999999986,
+            "b": 34.999999999999986
+        },
+        "color1": {
+            "r": 14.852941176470592,
+            "g": 15.000000000000004,
+            "b": 15.000000000000004
+        },
+        "color2": {
+            "r": 9.999999999999993,
+            "g": 9.999999999999993,
+            "b": 9.999999999999993
+        },
+        "colorBg": {
+            "r": 245,
+            "g": 245,
+            "b": 245
+        },
+        "animateColorSpeed": -25,
+        "rainbowMode": false
+    },
+    "Flower": {
+        "chainString": "* just a tranquil flower *",
+        "numChains": 23,
+        "randomStringStart": false,
+        "backgroundRedrawAlpha": 255,
+        "fontSizeChainStart": 89,
+        "fontSizeChainEnd": 89,
+        "fontSpacingStart": -100,
+        "fontSpacingEnd": 7,
+        "fontSizeLinkJitter": 16.644955117691467,
+        "fontSizeChainJitter": 11.8,
+        "xRotationSpeed": 0,
+        "yRotationSpeed": 7.0200000000000005,
+        "zRotationSpeed": 0,
+        "chainOffsetBase": 0,
+        "chainOffsetOscMag": 10,
+        "chainOffsetOscFreq": 3,
+        "xRotationMouseXInf": 0.34,
+        "xRotationMouseYInf": 0,
+        "yRotationMouseXInf": 0,
+        "yRotationMouseYInf": 0.34,
+        "zRotationMouseXInf": 0,
+        "zRotationMouseYInf": 0.7000000000000001,
+        "color0": {
+            "r": 90.770202020202,
+            "g": 197.5,
+            "b": 32.916666666666664
+        },
+        "color1": {
+            "r": 255,
+            "g": 240.51724137931032,
+            "b": 195
+        },
+        "color2": {
+            "r": 255,
+            "g": 240.41176470588235,
+            "b": 7.0000000000000036
+        },
+        "colorBg": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "animateColorSpeed": 0,
+        "rainbowMode": false
+    },
+    "Void Entity": {
+        "chainString": "What do you see when you look into my eye?",
+        "numChains": 26,
+        "randomStringStart": true,
+        "backgroundRedrawAlpha": 25,
+        "fontSizeChainStart": 44,
+        "fontSizeChainEnd": 75,
+        "fontSpacingStart": -39.900000000000006,
+        "fontSpacingEnd": -15.8,
+        "fontSizeLinkJitter": 7.0247526337581405,
+        "fontSizeChainJitter": 13,
+        "xRotationSpeed": 2.21,
+        "yRotationSpeed": 8.23,
+        "zRotationSpeed": 14.24,
+        "chainOffsetBase": 100,
+        "chainOffsetOscMag": 25,
+        "chainOffsetOscFreq": 7.5,
+        "xRotationMouseXInf": 0.22,
+        "xRotationMouseYInf": 0,
+        "yRotationMouseXInf": -0.38,
+        "yRotationMouseYInf": 0.46,
+        "zRotationMouseXInf": 0,
+        "zRotationMouseYInf": 0,
+        "color0": {
+            "r": 240,
+            "g": 167.64705882352933,
+            "b": 35.00000000000001
+        },
+        "color1": {
+            "r": 227.49999999999997,
+            "g": 66.91176470588233,
+            "b": 66.91176470588233
+        },
+        "color2": {
+            "r": 68,
+            "g": 78.11764705882358,
+            "b": 240
+        },
+        "colorBg": {
+            "r": 3.0882352941176485,
+            "g": 3.0882352941176485,
+            "b": 15.000000000000004
+        },
+        "animateColorSpeed": -10,
+        "rainbowMode": false
+    },
+    "Chaos": {
+        "chainString": "??? What went wrong here ???",
+        "numChains": 17,
+        "randomStringStart": true,
+        "backgroundRedrawAlpha": 1,
+        "fontSizeChainStart": 98,
+        "fontSizeChainEnd": 19,
+        "fontSpacingStart": -14.600000000000001,
+        "fontSpacingEnd": -79.60000000000001,
+        "fontSizeLinkJitter": -74.74696847967505,
+        "fontSizeChainJitter": 67.2,
+        "xRotationSpeed": 5.82,
+        "yRotationSpeed": -20.63,
+        "zRotationSpeed": -2.6,
+        "chainOffsetBase": -100,
+        "chainOffsetOscMag": -66.3,
+        "chainOffsetOscFreq": 1.8,
+        "xRotationMouseXInf": 0.34,
+        "xRotationMouseYInf": 0.34,
+        "yRotationMouseXInf": -0.14,
+        "yRotationMouseYInf": -0.38,
+        "zRotationMouseXInf": -0.86,
+        "zRotationMouseYInf": -0.14,
+        "color0": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "color1": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        },
+        "color2": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "colorBg": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "animateColorSpeed": 16.14,
+        "rainbowMode": false
+    },
+    "Acid Trip": {
+        "chainString": "*** This % is $ a # strange @@ existence *** ",
+        "numChains": 26,
+        "randomStringStart": false,
+        "backgroundRedrawAlpha": 20,
+        "fontSizeChainStart": 53,
+        "fontSizeChainEnd": 89,
+        "fontSpacingStart": -14.600000000000001,
+        "fontSpacingEnd": -3.8000000000000003,
+        "fontSizeLinkJitter": 1,
+        "fontSizeChainJitter": 1,
+        "xRotationSpeed": 9.43,
+        "yRotationSpeed": 10.63,
+        "zRotationSpeed": 15.44,
+        "chainOffsetBase": -100,
+        "chainOffsetOscMag": 58.7,
+        "chainOffsetOscFreq": 8.4,
+        "xRotationMouseXInf": 0.46,
+        "xRotationMouseYInf": -0.14,
+        "yRotationMouseXInf": -0.14,
+        "yRotationMouseYInf": 0.58,
+        "zRotationMouseXInf": -0.02,
+        "zRotationMouseYInf": 0.34,
+        "color0": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        },
+        "color1": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        },
+        "color2": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        },
+        "colorBg": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "animateColorSpeed": -11.93,
+        "rainbowMode": true
+    }
+}
